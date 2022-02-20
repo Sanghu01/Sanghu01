@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sangh Priya Gautam
 - 👀 I’m interested in technical projects.
-- 🌱 I’m currently learning B.Tech (C.S.)
+- 🌱 I’m pursuing B.Tech. from MPEC.
 - 💞️ I’m looking to collaborate on web developing- 📫 How to reach me ...email- connectsanghpriya2002@gmail.com
 
 <!---
