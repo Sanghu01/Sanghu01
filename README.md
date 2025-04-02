@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sangh Priya Gautam
 - 👀 I’m interested in technical projects.
-- 🌱 I’m pursuing B.Tech. from MPEC.
-- 💞️ I’m looking to collaborate on web developing- 📫 How to reach me ...email- connectsanghpriya2002@gmail.com
+- 🌱 I’m pursuing M.Tech. from HBTU Kanpur.
+- 💞️ I’m looking to collaborate on web developing & Machine Learning- 📫 How to reach me ...email- connectvishal2002@gmail.com
 
 <!---
 Sanghu01/Sanghu01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
